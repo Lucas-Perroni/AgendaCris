@@ -5,7 +5,10 @@ using System.Text;
 namespace AgendaCris
 {
     public class ViaCEP
+
     {
+        //poco
+
             public string cep { get; set; }
             public string logradouro { get; set; }
             public string complemento { get; set; }
